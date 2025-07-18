@@ -28,3 +28,8 @@
 
 7. Branch list
 `git branch`
+
+## Remote repository
+1. Github
+2. Gitlab (recommended)
+3. Bitbucket
