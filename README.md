@@ -21,3 +21,8 @@
 `git commit -m "<message>"`
 
 5. Create a branch
+
+## Remote repository
+1. Github
+2. Gitlab (recommended)
+3. Bitbucket
