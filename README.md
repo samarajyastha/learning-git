@@ -19,3 +19,5 @@
 
 4. Commit changes
 `git commit -m "<message>"`
+
+5. Create a branch
